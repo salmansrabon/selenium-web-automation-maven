@@ -1,0 +1,102 @@
+{
+  "uid" : "4f429d02c3515b45",
+  "name" : "Login",
+  "fullName" : "TestCase.TestCase.doLogin",
+  "historyId" : "5174b36838055e40234a4e7bc87a6df9",
+  "time" : {
+    "start" : 1592799160274,
+    "stop" : 1592799171715,
+    "duration" : 11441
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592799124793,
+      "stop" : 1592799129369,
+      "duration" : 4576
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Logout",
+    "time" : {
+      "start" : 1592799201832,
+      "stop" : 1592799202663,
+      "duration" : 831
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "testClass",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "doLogin"
+  }, {
+    "name" : "parentSuite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "suite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "host",
+    "value" : "SALMAN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "9536@SALMAN-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8d77f7c34b229f5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592762907969,
+        "stop" : 1592762957904,
+        "duration" : 49935
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4f429d02c3515b45.json",
+  "parameterValues" : [ ]
+}

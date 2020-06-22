@@ -6,21 +6,8 @@
     "children" : [ {
       "name" : "10452@SALMAN-PC.main(1)",
       "children" : [ {
-        "name" : "Login",
-        "uid" : "41223882cc4b514b",
-        "parentUid" : "e860e2e92d95e3bb99d3209c0bf6944e",
-        "status" : "passed",
-        "time" : {
-          "start" : 1592762907969,
-          "stop" : 1592762957904,
-          "duration" : 49935
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "Purchase Item",
-        "uid" : "d5d1fe18547d57a0",
+        "uid" : "fe425febf855fd23",
         "parentUid" : "e860e2e92d95e3bb99d3209c0bf6944e",
         "status" : "passed",
         "time" : {
@@ -31,8 +18,64 @@
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
+      }, {
+        "name" : "Login",
+        "uid" : "8d77f7c34b229f5b",
+        "parentUid" : "e860e2e92d95e3bb99d3209c0bf6944e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592762907969,
+          "stop" : 1592762957904,
+          "duration" : 49935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
       } ],
       "uid" : "e860e2e92d95e3bb99d3209c0bf6944e"
+    }, {
+      "name" : "9536@SALMAN-PC.main(1)",
+      "children" : [ {
+        "name" : "Login",
+        "uid" : "4f429d02c3515b45",
+        "parentUid" : "e4bf6437e7641c2216488ecbfecb0ffd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592799160274,
+          "stop" : 1592799171715,
+          "duration" : 11441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "User Registration",
+        "uid" : "42a155eda81ac0e0",
+        "parentUid" : "e4bf6437e7641c2216488ecbfecb0ffd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592799129443,
+          "stop" : 1592799160164,
+          "duration" : 30721
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Purchase Item",
+        "uid" : "5a0e7e773bb025e4",
+        "parentUid" : "e4bf6437e7641c2216488ecbfecb0ffd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592799171720,
+          "stop" : 1592799201829,
+          "duration" : 30109
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4bf6437e7641c2216488ecbfecb0ffd"
     } ],
     "uid" : "39bde6fd1df14736a7b86a9fe0a75b91"
   } ]

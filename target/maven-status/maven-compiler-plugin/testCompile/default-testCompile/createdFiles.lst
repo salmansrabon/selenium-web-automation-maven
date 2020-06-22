@@ -1,4 +1,5 @@
 Pages\Login.class
+Pages\SignUp.class
 TestCase\TestCase.class
 Pages\PurchaseItem.class
 Utils\util.class

@@ -1,12 +1,12 @@
 {
-  "uid" : "41223882cc4b514b",
-  "name" : "Login",
-  "fullName" : "TestCase.TestCase.doLogin",
-  "historyId" : "5174b36838055e40234a4e7bc87a6df9",
+  "uid" : "42a155eda81ac0e0",
+  "name" : "User Registration",
+  "fullName" : "TestCase.TestCase.doRegistration",
+  "historyId" : "f38b45466615dfa88e995bfae9c2c1ba",
   "time" : {
-    "start" : 1592762907969,
-    "stop" : 1592762957904,
-    "duration" : 49935
+    "start" : 1592799129443,
+    "stop" : 1592799160164,
+    "duration" : 30721
   },
   "status" : "passed",
   "flaky" : false,
@@ -14,36 +14,36 @@
   "beforeStages" : [ {
     "name" : "setUp",
     "time" : {
-      "start" : 1592762903804,
-      "stop" : 1592762907895,
-      "duration" : 4091
+      "start" : 1592799124793,
+      "stop" : 1592799129369,
+      "duration" : 4576
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "hasContent" : false,
     "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
   } ],
   "afterStages" : [ {
     "name" : "Logout",
     "time" : {
-      "start" : 1592763017500,
-      "stop" : 1592763018199,
-      "duration" : 699
+      "start" : 1592799201832,
+      "stop" : 1592799202663,
+      "duration" : 831
     },
     "description" : "",
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "hasContent" : false,
     "stepsCount" : 0,
-    "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
   } ],
   "labels" : [ {
     "name" : "package",
@@ -53,7 +53,7 @@
     "value" : "TestCase.TestCase"
   }, {
     "name" : "testMethod",
-    "value" : "doLogin"
+    "value" : "doRegistration"
   }, {
     "name" : "parentSuite",
     "value" : "E-commerce portal automation"
@@ -68,7 +68,7 @@
     "value" : "SALMAN-PC"
   }, {
     "name" : "thread",
-    "value" : "10452@SALMAN-PC.main(1)"
+    "value" : "9536@SALMAN-PC.main(1)"
   }, {
     "name" : "framework",
     "value" : "testng"
@@ -89,6 +89,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "41223882cc4b514b.json",
+  "source" : "42a155eda81ac0e0.json",
   "parameterValues" : [ ]
 }

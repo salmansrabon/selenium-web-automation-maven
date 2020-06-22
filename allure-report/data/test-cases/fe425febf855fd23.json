@@ -1,0 +1,92 @@
+{
+  "uid" : "fe425febf855fd23",
+  "name" : "Purchase Item",
+  "fullName" : "TestCase.TestCase.doPurchage",
+  "historyId" : "ca84736d423958655493183b537794c4",
+  "time" : {
+    "start" : 1592762957991,
+    "stop" : 1592763017496,
+    "duration" : 59505
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1592762903804,
+      "stop" : 1592762907895,
+      "duration" : 4091
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "Logout",
+    "time" : {
+      "start" : 1592763017500,
+      "stop" : 1592763018199,
+      "duration" : 699
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "testClass",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "testMethod",
+    "value" : "doPurchage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "suite",
+    "value" : "E-commerce portal automation"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCase.TestCase"
+  }, {
+    "name" : "host",
+    "value" : "SALMAN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "10452@SALMAN-PC.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe425febf855fd23.json",
+  "parameterValues" : [ ]
+}

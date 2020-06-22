@@ -1,20 +1,30 @@
 [ {
-  "uid" : "41223882cc4b514b",
-  "name" : "Login",
+  "uid" : "42a155eda81ac0e0",
+  "name" : "User Registration",
   "time" : {
-    "start" : 1592762907969,
-    "stop" : 1592762957904,
-    "duration" : 49935
+    "start" : 1592799129443,
+    "stop" : 1592799160164,
+    "duration" : 30721
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "d5d1fe18547d57a0",
+  "uid" : "4f429d02c3515b45",
+  "name" : "Login",
+  "time" : {
+    "start" : 1592799160274,
+    "stop" : 1592799171715,
+    "duration" : 11441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a0e7e773bb025e4",
   "name" : "Purchase Item",
   "time" : {
-    "start" : 1592762957991,
-    "stop" : 1592763017496,
-    "duration" : 59505
+    "start" : 1592799171720,
+    "stop" : 1592799201829,
+    "duration" : 30109
   },
   "status" : "passed",
   "severity" : "normal"

@@ -3,12 +3,20 @@ package TestCase;
 import BasePage.BasePage;
 import Pages.Login;
 import Pages.PurchaseItem;
+import Pages.SignUp;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 
 public class TestCase extends BasePage {
+    SignUp objReg;
     Login objLogin;
     PurchaseItem objPurchase;
+    @Test(priority=0,enabled = true, description="User Registration")
+    public void doRegistration() throws Exception {
+        driver.get("http://automationpractice.com");
+        objReg=new SignUp(driver);
+        objReg.memberSignUp();
+    }
     @Test(priority=1,enabled = true, description="Login")
     public void doLogin() throws Exception {
         driver.get("http://automationpractice.com");
