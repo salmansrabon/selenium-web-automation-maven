@@ -5,6 +5,7 @@
 - IDE: IntelIJ
 - Build tool: Maven
 - Language: Java
+- Framework: TestNG
 
 ## Requirement:
 1. Navigate to an ecommerce site
