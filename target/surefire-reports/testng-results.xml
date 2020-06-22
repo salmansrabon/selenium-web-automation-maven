@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="E-commerce portal automation" duration-ms="114420" started-at="2020-06-22T00:08:23 BDT" finished-at="2020-06-22T00:10:18 BDT">
+    <groups>
+    </groups>
+    <test name="E-commerce portal automation" duration-ms="114420" started-at="2020-06-22T00:08:23 BDT" finished-at="2020-06-22T00:10:18 BDT">
+      <class name="TestCase.TestCase">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestCase.TestCase@214b199c]" name="setUp" is-config="true" duration-ms="4099" started-at="2020-06-22T00:08:23 BDT" finished-at="2020-06-22T00:08:27 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="doLogin()[pri:1, instance:TestCase.TestCase@214b199c]" name="doLogin" duration-ms="49969" started-at="2020-06-22T00:08:27 BDT" description="Login" finished-at="2020-06-22T00:09:17 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="doPurchage()[pri:2, instance:TestCase.TestCase@214b199c]" name="doPurchage" duration-ms="59506" started-at="2020-06-22T00:09:17 BDT" description="Purchase Item" finished-at="2020-06-22T00:10:17 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPurchage -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:TestCase.TestCase@214b199c]" name="Logout" is-config="true" duration-ms="698" started-at="2020-06-22T00:10:17 BDT" finished-at="2020-06-22T00:10:18 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- TestCase.TestCase -->
+    </test> <!-- E-commerce portal automation -->
+  </suite> <!-- E-commerce portal automation -->
+</testng-results>
