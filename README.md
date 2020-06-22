@@ -1,10 +1,11 @@
-# selenium-web-automation
+# selenium-web-automation-maven
 
 ## Technology:
 - Tool: selenium
 - IDE: IntelIJ
 - Build tool: Maven
 - Language: Java
+- Framework: TestNG
 
 ## Requirement:
 1. Navigate to an ecommerce site
@@ -33,7 +34,8 @@ allure generate allure-results --clean -o allure-report
 allure serve allure-results
 ```
 ## Report View
-![alluresult](https://user-images.githubusercontent.com/48891202/85232576-b6ae0600-b421-11ea-8a5e-913df13d30cd.png)
-![allureresult2](https://user-images.githubusercontent.com/48891202/85232626-245a3200-b422-11ea-90f1-de4c649f3534.png)
+![alluresult](https://user-images.githubusercontent.com/48891202/85248067-9c037d80-b471-11ea-9df2-662cb4f93db7.png)
+
+![allureresult2](https://user-images.githubusercontent.com/48891202/85248095-af164d80-b471-11ea-9c93-dbb4a6199b7b.png)
 
 You will find the automation <a href="https://youtu.be/VzlgCcbHZWU" target="_blank">video</a> here.
